@@ -1,7 +1,17 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"CTags",
+		"Git",
+		"LaTeXTools",
 		"Package Control",
+		"sublime-github",
 		"VintageEx"
+	],
+	"repositories":
+	[
+		"https://github.com/glinmac/hive-sublime-text2.git",
+		"https://github.com/glinmac/hive-sublime-text2.git"
 	]
 }
