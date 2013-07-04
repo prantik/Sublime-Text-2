@@ -1,3 +1,5 @@
 Settings/*
 .DS_Store
 *.pyc
+*.cache
+*.last-run
